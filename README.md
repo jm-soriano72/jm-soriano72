@@ -1,6 +1,7 @@
  👋 Bienvenido a mi espacio en GitHub
 
-Hola, soy Jose y soy un entusiasta de la programación con formación y experiencia en distintas áreas. Aquí encontrarás una colección de mis proyectos más destacados, organizados por temáticas. Si te interesa algún proyecto o quieres colaborar, no dudes en contactarme.
+Hola, soy Jose y soy un entusiasta de la programación con formación y experiencia en distintas áreas. Aquí encontrarás una colección de mis proyectos más destacados que he ido realizando a lo largo de los años, organizados por temáticas.
+Me apasiona la programación de gráficos realistas, aplicando conocimientos matemáticos y físicos, así como la implementación de mecánicas complejas em videojuegos.
 
 ## 🛠️ Proyectos Destacados
 
@@ -40,7 +41,7 @@ Para obtener más detalles sobre cada proyecto, visita el repositorio correspond
 
 ## 📫 **Contacto**
 
-Si tienes alguna pregunta o estás interesado en colaborar comigo para realizar algún proyecto, no dudes en contactarme:
+Si tienes alguna pregunta o estás interesado en colaborar conmigo para realizar algún proyecto, no dudes en contactarme:
 
 - **Correo electrónico**: [jmsoriano2003@gmail.com](mailto:jmsoriano2003@gmail.com)
 
