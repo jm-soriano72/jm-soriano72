@@ -1,11 +1,11 @@
  👋 Bienvenido a mi espacio en GitHub
 
 Hola, soy Jose y soy un entusiasta de la programación con formación y experiencia en distintas áreas. Aquí encontrarás una colección de mis proyectos más destacados que he ido realizando a lo largo de los años, organizados por temáticas.
-Me apasiona la programación de gráficos realistas, aplicando conocimientos matemáticos y físicos, así como la implementación de mecánicas complejas em videojuegos.
+Me apasiona la informática gráfica, para la programación de gráficos realistas, aplicando conocimientos matemáticos y físicos, así como la implementación de mecánicas complejas en videojuegos.
 
 ## 🛠️ Proyectos Destacados
 
-### 📚 **Proyectos de Programación Gráfica**
+### 📚 **Proyectos de Informática Gráfica**
 [Escenas con OpenGL y GLSL](https://github.com/jm-soriano72/Informatica-Grafica)
 
 ### 🧠 **Algoritmos de Inteligencia Artificial**
