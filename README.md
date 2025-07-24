@@ -6,6 +6,7 @@ Me apasiona la informática gráfica, para la programación de gráficos realist
 ## 🛠️ Proyectos Destacados
 
 ### 📚 **Proyectos de Informática Gráfica**
+[Motor de iluminación global basado en surfels en Vulkan](https://github.com/jm-soriano72/Global-Ilumination-Surfels)
 [Escenas con OpenGL y GLSL](https://github.com/jm-soriano72/Informatica-Grafica)
 
 ### 🧠 **Algoritmos de Inteligencia Artificial**
